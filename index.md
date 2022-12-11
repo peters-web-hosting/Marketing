@@ -1,6 +1,6 @@
 ---
 title: "home"
-layout: splash
+layout: page
 ---
 
 # Welcome
