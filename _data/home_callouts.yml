@@ -1,0 +1,12 @@
+style: is-light
+items:
+  - title: Safer
+    subtitle: Make your site safer
+    icon: fa-copy
+  - title: Faster
+    subtitle: Less unwanted traffic means a faster site
+    icon: fa-mail-bulk
+  - title: Cheaper
+    subtitle: lower your running costs
+    icon: fa-github
+    icon_brand: true

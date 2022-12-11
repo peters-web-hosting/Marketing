@@ -1,6 +1,12 @@
 ---
+<<<<<<< Updated upstream
 title: "home"
 layout: splash
+=======
+title: "Home"
+layout: page
+callouts: home_callouts
+>>>>>>> Stashed changes
 ---
 
 # Welcome
