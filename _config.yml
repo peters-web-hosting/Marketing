@@ -1,1 +1,37 @@
 theme: bulma-clean-theme
+
+
+## main config
+lang: en
+title: Petersweb
+tagline: Bulma Clean Theme
+email: your-email@domain.com
+description: >
+  The demo site for risk marketing
+baseurl: ""
+url: ""
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+  - kramdown-parser-gfm
+  - jekyll-redirect-from
+
+sass:
+  style: compressed
+
+author: 
+  twitter: TBC
+lang: en_GB
+logo: #
+twitter:
+  username: 
+  card: 
+facebook:
+  publisher: 
+social:
+  name: 
+  links:
+    - https://www.petersweb.me.uk
