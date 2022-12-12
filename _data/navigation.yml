@@ -1,5 +1,4 @@
-main:
-  - title: home
-    url: /
-  - title: about peter
-    url: /about/
+- title: home
+  url: /
+- title: about peter
+  url: /about/
