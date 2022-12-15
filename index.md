@@ -2,8 +2,6 @@
 title: "Home"
 layout: page
 callouts: home_callouts
-layout: page
-
 ---
 
 # Welcome

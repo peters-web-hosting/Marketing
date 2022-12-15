@@ -15,8 +15,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-feed
-  - jekyll-seo-tag
-  - kramdown-parser-gfm
   - jekyll-redirect-from
 
 sass:
@@ -87,3 +85,4 @@ markdown: kramdown
 highlighter: rouge
 
 footer_menu: example_footer_menu
+include: [_pages]
